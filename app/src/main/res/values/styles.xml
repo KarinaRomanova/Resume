@@ -1,0 +1,7 @@
+<resources>
+
+    <color name="background">#EFEFF4</color>
+    <color name="text_color">#000000</color>
+    <color name="hint_color">#393939</color>
+
+</resources>

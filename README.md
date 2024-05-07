@@ -10,7 +10,7 @@
 
 ###Работа приложения
 
-![Uploading Screen_recording_20240321_201732 (1).gif…]()
+![](https://github.com/KarinaRomanova/Resume/blob/main/Screen_recording_20240321_201732-ezgif.com-video-to-gif-converter.gif)
 
 ![старт](https://github.com/KarinaRomanova/Resume/assets/57966840/8f3f7fe9-d5e7-4166-af5a-616f821828f8)
 ![Screenshot_20240321_201505](https://github.com/KarinaRomanova/Resume/assets/57966840/5075f6bb-e34d-495e-b1c5-ef85a5c57bad)
